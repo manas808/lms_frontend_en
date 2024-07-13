@@ -7,6 +7,7 @@ function App() {
     <>
       <h1 class="text-3xl font-bold underline">
          Hello world!
+         my name is manas
       </h1>
     </>
   )
